@@ -1,0 +1,67 @@
+/* formfitness.css */
+
+.fitness {
+    background-color: #f1f1f1;
+    padding: 50px 0;
+  }
+  
+  .fitness .content {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .fitness .title {
+    color: #333;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  
+  .fitness p {
+    color: #777;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .form-list {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .form-list li {
+    margin-bottom: 10px;
+  }
+  
+  .form-list label {
+    display: block;
+    font-size: 16px;
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 5px;
+  }
+  
+  .form-list input,
+  .form-list select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #555;
+  }
+  
+  
